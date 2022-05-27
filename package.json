@@ -1,0 +1,19 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "a quiz website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanpandey1407/quizapp.git"
+  },
+  "author": "aman pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanpandey1407/quizapp/issues"
+  },
+  "homepage": "https://github.com/amanpandey1407/quizapp#readme"
+}
